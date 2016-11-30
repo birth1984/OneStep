@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Nodes NodeScaleBase="2.5">
+<!-- 建筑 -->
+	<Node Id=1>
+		<level Id=1 Type=2 FileName="1" Ruins="-7"/>
+		<level Id=2 Type=2 FileName="1_2" Ruins="-7"/>
+	</Node>
+<!-- 建筑 -->
+
+
+
+	
+	
+<!-- 5000 到 10000 为人物 -->
+	<Node Id=5001>
+		<level Id=1 Type=3 FileName="solider_0" Ruins="17"  scale="0.8"/>
+		<level Id=3 Type=3 FileName="solider_1" Ruins="17"/>
+		<level Id=5 Type=3 FileName="solider_2" Ruins="17"/>
+	</Node>
+	<Node Id=5002>
+		<level Id=1 Type=3 FileName="hunter_0" Ruins="17" scale="0.8"/>
+		<level Id=3 Type=3 FileName="hunter_1" Ruins="17"/>
+		<level Id=5 Type=3 FileName="hunter_2" Ruins="17"/>
+	</Node>
+	<Node Id=5003>
+		<level Id=1 Type=3 FileName="fashi_0" Ruins="17" scale="0.8"/>
+		<level Id=3 Type=3 FileName="fashi_1" Ruins="17"/>
+		<level Id=5 Type=3 FileName="fashi_2" Ruins="17"/>
+	</Node>
+	<Node Id=5004>
+		<level Id=1 Type=3 FileName="treedemon_0" Ruins="17" scale="0.8"/>
+		<level Id=3 Type=3 FileName="treedemon_1" Ruins="17"/>
+		<level Id=5 Type=3 FileName="treedemon_2" Ruins="17"/>
+	</Node>
+	<Node Id=5005>
+		<level Id=1 Type=3 FileName="dwarf_0" Ruins="17"/>
+		<level Id=3 Type=3 FileName="dwarf_1" Ruins="17"/>
+		<level Id=5 Type=3 FileName="dwarf_2" Ruins="17"/>
+	</Node>
+	<Node Id=5006>
+		<level Id=1 Type=3 FileName="foresthunters_0" Ruins="17"/>
+		<level Id=3 Type=3 FileName="foresthunters_1" Ruins="17"/>
+		<level Id=5 Type=3 FileName="foresthunters_2" Ruins="17"/>
+	</Node>
+	<Node Id=5007>
+		<level Id=1 Type=3 FileName="griffin_0" Ruins="17"/>
+		<level Id=3 Type=3 FileName="griffin_1" Ruins="17"/>
+		<level Id=5 Type=3 FileName="griffin_2" Ruins="17"/>
+	</Node>
+	<Node Id=5008>
+		<level Id=1 Type=3 FileName="ents_0" Ruins="17"/>
+		<level Id=3 Type=3 FileName="ents_1" Ruins="17"/>
+		<level Id=5 Type=3 FileName="ents_2" Ruins="17"/>
+	</Node>
+	<Node Id=5009>
+		<level Id=1 Type=3 FileName="manh_0" Ruins="17"/>
+		<level Id=3 Type=3 FileName="manh_1" Ruins="17"/>
+		<level Id=5 Type=3 FileName="manh_2" Ruins="17"/>
+	</Node>
+	<Node Id=5010>
+		<level Id=1 Type=3 FileName="mad_0" Ruins="17"/>
+		<level Id=3 Type=3 FileName="mad_1" Ruins="17"/>
+		<level Id=5 Type=3 FileName="mad_2" Ruins="17"/>
+	</Node>
+	<Node Id=5011>
+		<level Id=1 Type=3 FileName="fairydragon_0" Ruins="17"/>
+		<level Id=3 Type=3 FileName="fairydragon_1" Ruins="17"/>
+		<level Id=5 Type=3 FileName="fairydragon_2" Ruins="17"/>
+	</Node>
+	<Node Id=5012>
+		<level Id=1 Type=3 FileName="helicopter_0" Ruins="17"/>
+		<level Id=3 Type=3 FileName="helicopter_1" Ruins="17"/>
+		<level Id=5 Type=3 FileName="helicopter_2" Ruins="17"/>
+	</Node>
+	<Node Id=6001>
+		<level Id=1 Type=3 FileName="nongmin_0" Ruins="17"/>
+	</Node>
+<!-- 1万 到 2 万 是英雄-->
+	<Node Id=10201>
+		<level Id=1 Type=3 FileName="hero_0" Ruins="17"/>
+		<level Id=2 Type=3 FileName="hero_1" Ruins="17"/>
+	</Node>
+	<Node Id=10211>
+		<level Id=1 Type=3 FileName="gladiator_0" Ruins="17"/>
+	</Node>
+	<Node Id=10221>
+		<level Id=1 Type=3 FileName="youling_0" Ruins="17"/>
+		<level Id=2 Type=3 FileName="youling_1" Ruins="17"/>
+	</Node>
+	<Node Id=10231>
+		<level Id=1 Type=3 FileName="dancer_0" Ruins="17"/>
+		<level Id=2 Type=3 FileName="dancer_1" Ruins="17"/>
+	</Node>
+	<Node Id=10241>
+		<level Id=1 Type=3 FileName="angel_0" Ruins="17"/>
+	</Node>
+	<Node Id=10301>
+		<level Id=1 Type=3 FileName="nightkiller_0" Ruins="17"/>
+	</Node>
+	<Node Id=10311>
+		<level Id=1 Type=3 FileName="anye_0" Ruins="17"/>
+	</Node>
+	<Node Id=10321>
+		<level Id=1 Type=3 FileName="wolfman_0" Ruins="17"/>
+	</Node>
+	<Node Id=10331>
+		<level Id=1 Type=3 FileName="stone_0" Ruins="17"/>
+	</Node>
+	<Node Id=10341>
+		<level Id=1 Type=3 FileName="meimo_0" Ruins="17"/>
+		<level Id=2 Type=3 FileName="meimo_1" Ruins="17"/>
+	</Node>
+	<Node Id=10401>
+		<level Id=1 Type=3 FileName="engineer_0" Ruins="17"/>
+	</Node>
+	<Node Id=10411>
+		<level Id=1 Type=3 FileName="sage_0" Ruins="17"/>
+	</Node>
+	<Node Id=10421>
+		<level Id=1 Type=3 FileName="hillking_0" Ruins="17"/>
+		<level Id=2 Type=3 FileName="hillking_1" Ruins="17"/>
+	</Node>
+	<Node Id=10431>
+		<level Id=1 Type=3 FileName="duyan_0" Ruins="17"/>
+	</Node>
+	<Node Id=10441>
+		<level Id=1 Type=3 FileName="elfpriests_0" Ruins="17"/>
+	</Node>
+	<Node Id=10451>
+		<level Id=1 Type=3 FileName="panda_0" Ruins="17"/>
+	</Node>
+	<Node Id=10461>
+		<level Id=1 Type=3 FileName="wuyi_0" Ruins="17"/>
+	</Node>
+	<Node Id=10471>
+		<level Id=1 Type=3 FileName="ziran_0" Ruins="17"/>
+		<level Id=2 Type=3 FileName="ziran_1" Ruins="17"/>
+	</Node>
+	<Node Id=10481>
+		<level Id=1 Type=3 FileName="lianjin_0" Ruins="17"/>
+	</Node>
+	<Node Id=10491>
+		<level Id=1 Type=3 FileName="predator_0" Ruins="17"/>
+	</Node>
+	<Node Id=10501>
+		<level Id=1 Type=3 FileName="predator_0" Ruins="17"/>
+	</Node>
+	<Node Id=10511>
+		<level Id=1 Type=3 FileName="najia_0" Ruins="17"/>
+	</Node>
+	<Node Id=10521>
+		<level Id=1 Type=3 FileName="leishen_0" Ruins="17"/>
+		<level Id=2 Type=3 FileName="leishen_1" Ruins="17"/>
+	</Node>
+	<Node Id=10531>
+		<level Id=1 Type=3 FileName="nangua_0" Ruins="17"/>
+		<level Id=2 Type=3 FileName="nangua_1" Ruins="17"/>
+	</Node>
+	<Node Id=10541>
+		<level Id=1 Type=3 FileName="niutou_0" Ruins="17"/>
+		<level Id=2 Type=3 FileName="niutou_1" Ruins="17"/>
+	</Node>
+	<Node Id=10551>
+		<level Id=1 Type=3 FileName="sishen_0" Ruins="17"/>
+		<level Id=2 Type=3 FileName="sishen_1" Ruins="17"/>
+	</Node>
+	<Node Id=10561>
+		<level Id=1 Type=3 FileName="hanbing_0" Ruins="17"/>
+	</Node>
+	<Node Id=10571>
+		<level Id=1 Type=3 FileName="qiuzhang_0" Ruins="17"/>
+	</Node>
+	<Node Id=10581>
+		<level Id=1 Type=3 FileName="qiuzhang_1" Ruins="17"/>
+	</Node>
+	<Node Id=10591>
+		<level Id=1 Type=3 FileName="qiuzhang_0" Ruins="17"/>
+	</Node>
+	<Node Id=10601>
+		<level Id=1 Type=3 FileName="renyu_0" Ruins="17"/>
+	</Node>
+	<Node Id=10611>
+		<level Id=1 Type=3 FileName="xiezi_0" Ruins="17"/>
+		<level Id=2 Type=3 FileName="xiezi_1" Ruins="17"/>
+	</Node>
+	<Node Id=10621>
+		<level Id=1 Type=3 FileName="xueren" Ruins="17"/>
+		<level Id=2 Type=3 FileName="xuren_1" Ruins="17"/>
+	</Node>
+	<Node Id=10631>
+		<level Id=1 Type=3 FileName="konglong_0" Ruins="17"/>
+	</Node>
+	<Node Id=10632>
+		<level Id=1 Type=3 FileName="konglong_0" Ruins="17"/>
+	</Node>
+	<Node Id=10633>
+		<level Id=1 Type=3 FileName="konglong_0" Ruins="17"/>
+	</Node>
+	<Node Id=10634>
+		<level Id=1 Type=3 FileName="konglong_1" Ruins="17"/>
+	</Node>
+	<Node Id=10635>
+		<level Id=1 Type=3 FileName="konglong_1" Ruins="17"/>
+	</Node>
+	<Node Id=10636>
+		<level Id=1 Type=3 FileName="konglong_1" Ruins="17"/>
+	</Node>
+	<Node Id=10637>
+		<level Id=1 Type=3 FileName="konglong_2" Ruins="17"/>
+	</Node>
+	<Node Id=10638>
+		<level Id=1 Type=3 FileName="konglong_2" Ruins="17"/>
+	</Node>
+	<Node Id=10639>
+		<level Id=1 Type=3 FileName="konglong_2" Ruins="17"/>
+	</Node>
+	<Node Id=10640>
+		<level Id=1 Type=3 FileName="konglong_2" Ruins="17"/>
+	</Node>
+	<Node Id=10641>
+		<level Id=1 Type=3 FileName="konglong_0" Ruins="17"/>
+	</Node>
+	<Node Id=10642>
+		<level Id=1 Type=3 FileName="konglong_0" Ruins="17"/>
+	</Node>
+	<Node Id=10643>
+		<level Id=1 Type=3 FileName="konglong_0" Ruins="17"/>
+	</Node>
+	<Node Id=10644>
+		<level Id=1 Type=3 FileName="konglong_1" Ruins="17"/>
+	</Node>
+	<Node Id=10645>
+		<level Id=1 Type=3 FileName="konglong_1" Ruins="17"/>
+	</Node>
+	<Node Id=10646>
+		<level Id=1 Type=3 FileName="konglong_1" Ruins="17"/>
+	</Node>
+	<Node Id=10647>
+		<level Id=1 Type=3 FileName="konglong_2" Ruins="17"/>
+	</Node>
+	<Node Id=10648>
+		<level Id=1 Type=3 FileName="konglong_2" Ruins="17"/>
+	</Node>
+	<Node Id=10649>
+		<level Id=1 Type=3 FileName="konglong_2" Ruins="17"/>
+	</Node>
+	<Node Id=10650>
+		<level Id=1 Type=3 FileName="konglong_2" Ruins="17"/>
+	</Node>
+	<Node Id=10651>
+		<level Id=1 Type=3 FileName="qiuzhang_2" Ruins="17"/>
+	</Node>
+	<Node Id=10661>
+		<level Id=1 Type=3 FileName="qiubite_0" Ruins="17"/>
+		<level Id=2 Type=3 FileName="qiubite_1" Ruins="17"/>
+	</Node>
+	<Node Id=10671>
+		<level Id=1 Type=3 FileName="wuseng_0" Ruins="17"/>
+	</Node>
+	<Node Id=10681>
+		<level Id=1 Type=3 FileName="jianling_0" Ruins="17"/>
+		<level Id=2 Type=3 FileName="jianling_1" Ruins="17"/>
+	</Node>
+	<Node Id=10691>
+		<level Id=1 Type=3 FileName="houzi_0" Ruins="17"/>
+		<level Id=2 Type=3 FileName="houzi_1" Ruins="17"/>
+	</Node>
+	<Node Id=10701>
+		<level Id=1 Type=3 FileName="yiji_0" Ruins="17"/>
+	</Node>
+	<Node Id=10711>
+		<level Id=1 Type=3 FileName="wuyao_0" Ruins="17"/>
+		<level Id=2 Type=3 FileName="wuyao_1" Ruins="17"/>
+	</Node>
+	<Node Id=10721>
+		<level Id=1 Type=3 FileName="gonghui_0" Ruins="17"/>
+		<level Id=2 Type=3 FileName="qumoshi_1" Ruins="17"/>
+	</Node>
+	<Node Id=10731>
+		<level Id=1 Type=3 FileName="stlong_0" Ruins="17"/>
+		<level Id=2 Type=3 FileName="stlong_1" Ruins="17" scale="1.2"/>
+	</Node>
+	<Node Id=10801>
+		<level Id=1 Type=3 FileName="qiuzhang_0" Ruins="17"/>
+	</Node>
+	<Node Id=10802>
+		<level Id=1 Type=3 FileName="qiuzhang_1" Ruins="17"/>
+	</Node>
+	<Node Id=10803>
+		<level Id=1 Type=3 FileName="qiuzhang_0" Ruins="17"/>
+	</Node>
+	<Node Id=10804>
+		<level Id=1 Type=3 FileName="qiuzhang_0" Ruins="17"/>
+	</Node>
+	<Node Id=10805>
+		<level Id=1 Type=3 FileName="qiuzhang_0" Ruins="17"/>
+	</Node>
+	<Node Id=10806>
+		<level Id=1 Type=3 FileName="qiuzhang_1" Ruins="17"/>
+	</Node>
+	<Node Id=10807>
+		<level Id=1 Type=3 FileName="qiuzhang_0" Ruins="17"/>
+	</Node>
+	<Node Id=10808>
+		<level Id=1 Type=3 FileName="qiuzhang_0" Ruins="17"/>
+	</Node>
+	<Node Id=10809>
+		<level Id=1 Type=3 FileName="qiuzhang_0" Ruins="17"/>
+	</Node>
+	<Node Id=10811>
+		<level Id=1 Type=3 FileName="stlong_0" Ruins="17" scale="2"/>
+	</Node>
+	<Node Id=10741>
+		<level Id=1 Type=3 FileName="zhongjia_0" Ruins="17"/>
+		<level Id=2 Type=3 FileName="zhongjia_1" Ruins="17"/>
+	</Node>
+	<Node Id=10751>
+		<level Id=1 Type=3 FileName="xxg_0" Ruins="17"/>
+		<level Id=2 Type=3 FileName="xxg_1" Ruins="17"/>
+	</Node>
+	<Node Id=10761>
+		<level Id=1 Type=3 FileName="siwqs_0" Ruins="17"/>
+		<level Id=2 Type=3 FileName="siwqs_1" Ruins="17"/>
+	</Node>
+	<Node Id=10771>
+		<level Id=1 Type=3 FileName="shouren_0" Ruins="17"/>
+		<level Id=2 Type=3 FileName="shouren_1" Ruins="17"/>
+	</Node>
+	<Node Id=10781>
+		<level Id=1 Type=3 FileName="santa_0" Ruins="17"/>
+		<level Id=2 Type=3 FileName="santa_1" Ruins="17"/>
+	</Node>
+	<Node Id=10791>
+		<level Id=1 Type=3 FileName="huayao_0" Ruins="17"/>
+		<level Id=2 Type=3 FileName="huayao_1" Ruins="17"/>
+	</Node>
+	<Node Id=10831>
+		<level Id=1 Type=3 FileName="boss_0" Ruins="17" scale="1.6"/>
+	</Node>
+	<Node Id=10841>
+		<level Id=1 Type=3 FileName="boss_0" Ruins="17" scale="1.6"/>
+	</Node>
+	<Node Id=10851>
+		<level Id=1 Type=3 FileName="boss_0" Ruins="17" scale="1.6"/>
+	</Node>
+	<Node Id=10861>
+		<level Id=1 Type=3 FileName="boss_0" Ruins="17" scale="1.6"/>
+	</Node>
+	<Node Id=10871>
+		<level Id=1 Type=3 FileName="medusa_0" Ruins="17"/>
+		<level Id=2 Type=3 FileName="medusa_1" Ruins="17"/>
+	</Node>
+	<Node Id=10881>
+		<level Id=1 Type=3 FileName="emo_0" Ruins="17"/>
+		<level Id=2 Type=3 FileName="emo_1" Ruins="17"/>
+	</Node>
+	<Node Id=10891>
+		<level Id=1 Type=3 FileName="archimage_0" Ruins="17" scale="1.1"/>
+		<level Id=2 Type=3 FileName="archimage_1" Ruins="17"/>
+	</Node>
+	<Node Id=10901>
+		<level Id=1 Type=3 FileName="forestking_0" Ruins="17"/>
+		<level Id=2 Type=3 FileName="forestking_1" Ruins="17"/>
+	</Node>
+	<Node Id=11001>
+		<level Id=1 Type=3 FileName="niaoren_0" Ruins="17"/>
+		<level Id=2 Type=3 FileName="niaoren_1" Ruins="17"/>
+	</Node>
+	<Node Id=11011>
+		<level Id=1 Type=3 FileName="skeletonking_0" Ruins="17"/>
+		<level Id=2 Type=3 FileName="skeletonking_1" Ruins="17"/>
+	</Node>
+	<Node Id=11021>
+		<level Id=1 Type=3 FileName="chuan_0" Ruins="17"/>
+		<level Id=2 Type=3 FileName="chuan_1" Ruins="17"/>
+	</Node>
+	<Node Id=11031>
+		<level Id=1 Type=3 FileName="shixianggui_0" Ruins="17"/>
+		<level Id=2 Type=3 FileName="shixianggui_1" Ruins="17"/>
+	</Node>
+	<Node Id=11041>
+		<level Id=1 Type=3 FileName="chris_0" Ruins="17"/>
+		<level Id=2 Type=3 FileName="chris_1" Ruins="17"/>
+	</Node>
+	<Node Id=11051>
+		<level Id=1 Type=3 FileName="icedragon_0" Ruins="17"/>
+		<level Id=2 Type=3 FileName="icedragon_1" Ruins="17"/>
+	</Node>
+	<Node Id=11061>
+		<level Id=1 Type=3 FileName="boss_0" Ruins="17" scale="1.6"/>
+	</Node>
+	<Node Id=11071>
+		<level Id=1 Type=3 FileName="boss_0" Ruins="17" scale="1.6"/>
+	</Node>
+	<Node Id=11081>
+		<level Id=1 Type=3 FileName="qrjfs_0" Ruins="17"/>
+		<level Id=2 Type=3 FileName="qrjfs_1" Ruins="17"/>
+	</Node>
+	<Node Id=11091>
+		<level Id=1 Type=3 FileName="deathking_0" Ruins="17"/>
+		<level Id=2 Type=3 FileName="deathking_1" Ruins="17"/>
+	</Node>
+	<Node Id=11091>
+		<level Id=1 Type=3 FileName="deathking_0" Ruins="17"/>
+		<level Id=2 Type=3 FileName="deathking_1" Ruins="17"/>
+	</Node>
+	<Node Id=11101>
+		<level Id=1 Type=3 FileName="shouwang_0" Ruins="17"/>
+		<level Id=2 Type=3 FileName="shouwang_1" Ruins="17"/>
+	</Node>
+	<Node Id=11111>
+		<level Id=1 Type=3 FileName="swxiong_0" Ruins="17"/>
+		<level Id=2 Type=3 FileName="swxiong_1" Ruins="17"/>
+	</Node>
+	<Node Id=11121>
+		<level Id=1 Type=3 FileName="chuan_0" Ruins="17"/>
+		<level Id=2 Type=3 FileName="chuan_1" Ruins="17"/>
+	</Node>
+	<Node Id=11131>
+		<level Id=1 Type=3 FileName="skeletonking_0" Ruins="17"/>
+		<level Id=2 Type=3 FileName="skeletonking_1" Ruins="17"/>
+	</Node>
+	
+<!-- 测试 -->
+
+	<Node Id=1001>
+		<level Id=1 Type=4 FileName="1001"/>
+	</Node>
+	<Node Id=1002>
+		<level Id=1 Type=4 FileName="1002"/>
+	</Node>
+	
+</Nodes>
+
+<!-- 
+Type
+0:ActionNode
+1:StaticNode
+2:MixNode
+3:RoleNode
+4:FlyerNode
+5:DataNode
+6:SmokeNode
+7:ChimneyNode
+8:ExplodeNode
+9:FountainNode
+10:LineNode
+11:StretchingNode( Type=5)
+12:CometNode
+13:DirectionNode
+14:EffectNode
+15:ParticleNode(system)
+16:RevolveNode
+17:ParticleNode(need .xml file)
+18:StaticNode(置顶)
+19:EffectNode(包含DATA)
+20:ActionNode置于顶层的
+21:ActionNode可移动
+22:SimpleParticle
+24:EffectPlayer2
+25:MaskNode
+26:EffectNode3
+27:EffectNode_Action
+28:MixActionNode
+29:CometNode(多粒子)
+-->
+
+<!--
+15000 - 20000 为沙盘英雄.
+//特殊处理之..
+//为了沙盘功能,英雄出现重复的现象,就是同样的英雄会有不同的ID组...
+//重复的英雄的ID将从5000开始,,对于NODELIST.XML也就是从15000开始,其对应的已有的英雄模型ID号等于 英雄ID-5000 !!!! 
+//by zxx 2014-11-06
+
+3000 - 3500 为重重的建筑.
+//ID从3000 到 4000定义为建筑的镜像.即对应ID 1-999 的建筑.
+
+参见NodeManager.cpp -> GetNode
+	-->

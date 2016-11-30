@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<list>
+	<node Id="5001" act="8" hurt="1002" dead="501" collect="0"/>
+	<node Id="5002" act="3" hurt="1002" dead="501" collect="0"/>
+	<node Id="5003" act="7" hurt="1002" dead="501" collect="0" />
+	<node Id="5004" act="4" hurt="1002" dead="501" collect="0" />
+	<node Id="5005" act="4" hurt="1002" dead="501" collect="0" />
+	<node Id="5006" act="22" hurt="1002" dead="501" collect="0" />
+	<node Id="5007" act="16" hurt="1002" dead="501" collect="0" />
+	<node Id="5008" act="4" hurt="1002" dead="501" collect="0" />
+	<node Id="5009" act="4" hurt="1002" dead="501" collect="0" />
+	<node Id="5010" act="13" hurt="1002" dead="501" collect="0" />
+	<node Id="5011" act="17" hurt="1002" dead="501" collect="0" />
+	<node Id="5012" act="24" hurt="1002" dead="501" collect="0" />
+
+	<node Id="10201" act="4" hurt="1002" dead="501" collect="0" />
+	<node Id="10211" act="4" hurt="1002" dead="501" collect="0" />
+	<node Id="10221" act="14" hurt="1002" dead="501" collect="0" />
+	<node Id="10231" act="4" hurt="1002" dead="501" collect="0" />
+	<node Id="10241" act="2" hurt="1002" dead="501" collect="0" />
+	<node Id="10301" act="4" hurt="1002" dead="501" collect="0" />
+	<node Id="10311" act="10" hurt="1002" dead="501" collect="0" />
+	<node Id="10321" act="4" hurt="1002" dead="501" collect="0" />
+	<node Id="10331" act="11" hurt="1002" dead="501" collect="0" />
+	<node Id="10341" act="34" hurt="1002" dead="501" collect="0" />
+	<node Id="10401" act="31" hurt="1002" dead="501" collect="0" />
+	<node Id="10411" act="12" hurt="1002" dead="501" collect="0" />
+	<node Id="10421" act="4" hurt="1002" dead="501" collect="0" />
+	<node Id="10431" act="4" hurt="1002" dead="501" collect="0" />
+	<node Id="10441" act="4" hurt="1002" dead="501" collect="0" />
+	<node Id="10451" act="4" hurt="1002" dead="501" collect="0" />
+	<node Id="10461" act="33" hurt="1002" dead="501" collect="0" />
+	<node Id="10471" act="37" hurt="1002" dead="501" collect="0" />
+	<node Id="10481" act="27" hurt="1002" dead="501" collect="0" />
+	<node Id="10491" act="4" hurt="1002" dead="501" collect="0" />
+	<node Id="10511" act="33" hurt="1002" dead="501" collect="0" />
+	<node Id="10521" act="35" hurt="1002" dead="501" collect="0" />
+	<node Id="10531" act="4" hurt="1002" dead="501" collect="0" />
+	<node Id="10541" act="4" hurt="1002" dead="501" collect="0" />
+	<node Id="10551" act="45" hurt="1002" dead="501" collect="0" />
+	<node Id="10561" act="12" hurt="1002" dead="501" collect="0" />
+	<node Id="10571" act="4" hurt="1002" dead="501" collect="0" />
+	<node Id="10581" act="4" hurt="1002" dead="501" collect="0" />
+	<node Id="10591" act="4" hurt="1002" dead="501" collect="0" />
+	<node Id="10601" act="39" hurt="1002" dead="501" collect="0" />
+	<node Id="10611" act="35" hurt="1002" dead="501" collect="0" />
+	<node Id="10621" act="40" hurt="1002" dead="501" collect="0" />
+	<node Id="10631" act="4" hurt="1002" dead="501" collect="0" />
+	<node Id="10661" act="47" hurt="1002" dead="501" collect="0" />
+	<node Id="10651" act="4" hurt="1002" dead="501" collect="0" />
+	<node Id="10671" act="35" hurt="1002" dead="501" collect="0" />
+	<node Id="10681" act="4" hurt="1002" dead="501" collect="0" />
+	<node Id="10691" act="49" hurt="1002" dead="501" collect="0" />
+	<node Id="10711" act="4" hurt="1002" dead="501" collect="0" />
+	<node Id="10721" act="4" hurt="1002" dead="501" collect="0" />
+	<node Id="10731" act="52" hurt="1002" dead="501" collect="0" />
+	<node Id="10741" act="53" hurt="1002" dead="501" collect="0" />
+	<node Id="10751" act="54" hurt="1002" dead="501" collect="0" />
+	<node Id="10761" act="4" hurt="1002" dead="501" collect="0" />
+	<node Id="10771" act="55" hurt="1002" dead="501" collect="0" />
+	<node Id="10781" act="56" hurt="1002" dead="501" collect="0" />
+	<node Id="10791" act="57" hurt="1002" dead="501" collect="0" />
+	<node Id="10831" act="4" hurt="1002" dead="501" collect="0" />
+	<node Id="10841" act="4" hurt="1002" dead="501" collect="0" />
+	<node Id="10851" act="4" hurt="1002" dead="501" collect="0" />
+	<node Id="10861" act="4" hurt="1002" dead="501" collect="0" />
+	<node Id="10871" act="58" hurt="1002" dead="501" collect="0" />
+	<node Id="10881" act="4" hurt="1002" dead="501" collect="0" />
+	<node Id="10801" act="4" hurt="1002" dead="501" collect="0" />
+	<node Id="10891" act="60" hurt="1002" dead="501" collect="0" />
+	<node Id="10901" act="61" hurt="1002" dead="501" collect="0" />
+	<node Id="11001" act="62" hurt="1002" dead="501" collect="0" />
+	<node Id="11011" act="4" hurt="1002" dead="501" collect="0" />
+	<node Id="11031" act="4" hurt="1002" dead="501" collect="0" />
+	<node Id="11041" act="63" hurt="1002" dead="501" collect="0" />
+	<node Id="11051" act="64" hurt="1002" dead="501" collect="0" />
+	<node Id="11061" act="4" hurt="1002" dead="501" collect="0" />
+	<node Id="11071" act="4" hurt="1002" dead="501" collect="0" />
+	<node Id="11081" act="66" hurt="1002" dead="501" collect="0" />
+	<node Id="11091" act="67" hurt="1002" dead="501" collect="0" />
+	<node Id="11101" act="68" hurt="1002" dead="501" collect="0" />
+	<node Id="11111" act="4" hurt="1002" dead="501" collect="0" />
+
+	<node Id="1" act="0" hurt="0" dead="500" collect="0" />
+	<node Id="2" act="0" hurt="0" dead="500" collect="0" />
+	<node Id="3" act="0" hurt="0" dead="500" collect="0" />
+	<node Id="4" act="0" hurt="1000" dead="500" collect="1003"/>
+	<node Id="5" act="0" hurt="1001" dead="500" collect="1004" />
+	<node Id="6" act="0" hurt="1000" dead="500" collect="1003" />
+	<node Id="7" act="0" hurt="1001" dead="500" collect="1004" />
+	<node Id="8" act="23" hurt="0" dead="500" collect="0" />
+	<node Id="9" act="10" hurt="0" dead="500" collect="0" />
+	<node Id="10" act="18" hurt="0" dead="500" collect="0" />
+	<node Id="11" act="0" hurt="0" dead="500" collect="0" />
+	<node Id="12" act="0" hurt="0" dead="500" collect="0" />
+	<node Id="13" act="0" hurt="0" dead="500" collect="0" />
+	<node Id="14" act="15" hurt="0" dead="" collect="0" />
+	<node Id="15" act="0" hurt="0" dead="500" collect="0" />
+	<node Id="16" act="0" hurt="0" dead="500" collect="0" />
+	<node Id="18" act="5" hurt="0" dead="500" collect="0" />
+	<node Id="19" act="0" hurt="0" dead="500" collect="0" />
+	<node Id="20" act="36" hurt="0" dead="0" collect="0" />
+	<node Id="21" act="0" hurt="0" dead="500" collect="0" />
+	<node Id="71" act="10" hurt="0" dead="500" collect="0" />
+	<node Id="72" act="18" hurt="0" dead="500" collect="0" />
+	<node Id="73" act="5" hurt="0" dead="500" collect="0" />
+	<node Id="74" act="0" hurt="0" dead="500" collect="0" />
+	<node Id="75" act="0" hurt="0" dead="500" collect="0" />
+
+	<node Id="201" act="0" hurt="0" dead="0" collect="1005" />
+	<node Id="206" act="0" hurt="0" dead="0" collect="1005" />
+	<node Id="211" act="0" hurt="0" dead="0" collect="1005" />
+
+	<node Id="1000018" act="38" hurt="0" dead="500" collect="0" />
+	<node Id="2000018" act="38" hurt="0" dead="500" collect="0" />
+	<node Id="3000018" act="41" hurt="0" dead="500" collect="0" />
+	<node Id="4000018" act="42" hurt="0" dead="500" collect="0" />
+	<node Id="5000018" act="43" hurt="0" dead="500" collect="0" />
+	<node Id="6000018" act="44" hurt="0" dead="500" collect="0" />
+	<node Id="7000018" act="50" hurt="0" dead="500" collect="0" />
+	<node Id="8000018" act="51" hurt="0" dead="500" collect="0" />
+	<node Id="1000073" act="38" hurt="0" dead="500" collect="0" />
+	<node Id="2000073" act="38" hurt="0" dead="500" collect="0" />
+	<node Id="3000073" act="41" hurt="0" dead="500" collect="0" />
+	<node Id="4000073" act="42" hurt="0" dead="500" collect="0" />
+	<node Id="5000073" act="43" hurt="0" dead="500" collect="0" />
+	<node Id="6000073" act="44" hurt="0" dead="500" collect="0" />
+	<node Id="7000073" act="50" hurt="0" dead="500" collect="0" />
+	<node Id="8000073" act="51" hurt="0" dead="500" collect="0" />
+
+	<node Id="20312" act="0" hurt="1006" dead="500" collect="1006"/>
+	<node Id="20318" act="0" hurt="1007" dead="500" collect="1007"/>
+	<node Id="1555" act="0" hurt="1006" dead="500" collect="1006"/>
+	<node Id="1557" act="0" hurt="1006" dead="500" collect="1006"/>
+	<node Id="1558" act="0" hurt="1006" dead="500" collect="1006"/>
+	<node Id="1559" act="0" hurt="1006" dead="500" collect="1006"/>
+	<node Id="1560" act="0" hurt="1006" dead="500" collect="1006"/>
+	<node Id="1562" act="0" hurt="1006" dead="500" collect="1006"/>
+	<node Id="1563" act="0" hurt="1006" dead="500" collect="1006"/>
+	<node Id="1564" act="0" hurt="1006" dead="500" collect="1006"/>
+	<node Id="1565" act="0" hurt="1006" dead="500" collect="1006"/>
+	<node Id="1566" act="0" hurt="1006" dead="500" collect="1006"/>
+	<node Id="1567" act="0" hurt="1006" dead="500" collect="1006"/>
+	<node Id="1568" act="0" hurt="1006" dead="500" collect="1006"/>
+	<node Id="1569" act="0" hurt="1006" dead="500" collect="1006"/>
+	<node Id="1570" act="0" hurt="1006" dead="500" collect="1006"/>
+
+</list>
+<!--Id=NodeId 
+act 普通攻击的特效ID ,对应list.xml里的id;
+hurt 受击特效
+dead 死亡特效ID
+
+Id 大于1000000 代表进阶特效.
+-->

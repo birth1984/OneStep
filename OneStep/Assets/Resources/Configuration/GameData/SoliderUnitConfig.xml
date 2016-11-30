@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<SoliderUnit Name="士兵Mesh缓存配置">
+  <List ID="1" Name="测试士兵1_0级" PrefabName="Solider_ancher_0"  FolderName="Archer" AnimationName="Solider_ancher_0"  MeshCacheId="1"/>
+  <List ID="2" Name="测试士兵1_1级" PrefabName="Solider_ancher_1"  FolderName="Archer" AnimationName="Solider_ancher_0"  MeshCacheId="2"/>
+  <List ID="3" Name="测试士兵2_0级" PrefabName="Solider_shield_0" FolderName="Shield" AnimationName="Solider_shield_0"   MeshCacheId="3"/>
+  <List ID="4" Name="测试士兵2_1级" PrefabName="Solider_shield_1"  FolderName="Shield" AnimationName="Solider_shield_0"  MeshCacheId="4"/>
+  <List ID="5" Name="测试士兵2_2级" PrefabName="Solider_shield_2"  FolderName="Shield" AnimationName="Solider_shield_0"  MeshCacheId="5"/>
+  <List ID="6" Name="测试士兵2_3级" PrefabName="Solider_shield_3"  FolderName="Shield" AnimationName="Solider_shield_0"  MeshCacheId="6"/>
+</SoliderUnit>
+
+<!--
+Name:描述
+PrefabName:保存成待烘焙Prefab和合并共享后的名称，也是Fbx的名称
+FolderName:所在文件夹名称( fbx和动画共用)
+AnimationName:采用的动画数据
+MeshCacheId:用于计算关联的缓存帧动画  
+-->
